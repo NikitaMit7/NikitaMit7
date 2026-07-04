@@ -17,27 +17,11 @@ I am interested in clean backend architecture, reliable service communication, d
 ## ⚙️ Tech Stack
 
 ### 🧩 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-
-![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-
-![Spring Web](https://img.shields.io/badge/Spring_Web-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-
-![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white) 
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white) ![Spring Web](https://img.shields.io/badge/Spring_Web-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white) ![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge)
 
 - Java Core (OOP, Collections, Streams, Multithreading)
 - Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security)
