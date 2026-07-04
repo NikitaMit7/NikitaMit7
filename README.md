@@ -7,9 +7,7 @@
 ## 👨‍💻 About Me
 
 Java Backend Developer focused on building backend services, REST APIs, database-driven applications and service integrations.
-
 I work with Java, Spring ecosystem, relational databases, message brokers and backend infrastructure tools.
-
 I am interested in clean backend architecture, reliable service communication, database optimization and writing maintainable code.
 
 ---
@@ -23,28 +21,12 @@ I am interested in clean backend architecture, reliable service communication, d
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge)
 
-- Java Core (OOP, Collections, Streams, Multithreading)
-- Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security)
-- REST API development
-
 ---
 
 ### 🗄️ Databases & Messaging
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
-![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge\&logo=liquibase\&logoColor=white)
-
-- SQL (SELECT, JOIN, GROUP BY, subqueries)
-- JDBC, Hibernate (JPA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white) ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge\&logo=liquibase\&logoColor=white)
 
 ---
 
@@ -53,32 +35,13 @@ I am interested in clean backend architecture, reliable service communication, d
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- HTML5, CSS3
-- JavaScript (DOM, events, AJAX)
-
 ---
 
 ### 🛠️ Tools & Other
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge\&logo=gradle\&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
-
-- Git (version control)
-- Maven / Gradle
-- JUnit (unit testing)
-- JSON, HTTP, Client-Server architecture
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge\&logo=gradle\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
 
 ---
 
