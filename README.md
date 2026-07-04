@@ -7,7 +7,9 @@
 ## 👨‍💻 About Me
 
 Java Backend Developer focused on building backend services, REST APIs, database-driven applications and service integrations.
+
 I work with Java, Spring ecosystem, relational databases, message brokers and backend infrastructure tools.
+
 I am interested in clean backend architecture, reliable service communication, database optimization and writing maintainable code.
 
 ---
