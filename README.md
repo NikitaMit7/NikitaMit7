@@ -45,17 +45,6 @@ I am interested in clean backend architecture, reliable service communication, d
 
 ---
 
-## 🧠 Key Knowledge
-
-- Object-Oriented Programming (SOLID principles, design patterns)
-- MVC architecture
-- Multithreading and concurrency
-- Working with files and streams
-- Client-server interaction
-- Data validation and serialization (JSON)
-
----
-
 ## 📫 Contact Me
 
 - Email: nikita_mitin_96@mail.ru
