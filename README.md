@@ -19,14 +19,13 @@ I am interested in clean backend architecture, reliable service communication, d
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white) ![Spring Web](https://img.shields.io/badge/Spring_Web-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white) ![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ---
 
 ### 🗄️ Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white) ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge\&logo=liquibase\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white) ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge\&logo=liquibase\&logoColor=white)
 
 ---
 
